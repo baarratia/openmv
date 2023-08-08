@@ -8,7 +8,7 @@ on:
       - reopened
       - synchronize
     branches:    
-      - 'master'
+      - 'custom_changes'
 
 jobs:
   check-commit-messages:
