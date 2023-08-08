@@ -5,7 +5,7 @@
 #
 # This work is licensed under the MIT license, see the file LICENSE for details.
 #
-# Top level Makefile
+# Top level Makefile.
 
 # Set verbosity
 ifeq ($(V), 1)
