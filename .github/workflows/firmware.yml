@@ -5,7 +5,7 @@ on:
     tags:
       - 'v*.*.*'
     branches:    
-      - 'master'
+      - 'custom_changes'
     paths:
       - 'src/**'
       - '.github/workflows/*.yml'
